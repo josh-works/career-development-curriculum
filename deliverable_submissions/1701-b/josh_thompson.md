@@ -1,5 +1,13 @@
 # Josh Thompson
 
+## Mod 3 Deliverables:
+
+- Link to resume: [Josh Thompson's Resume](https://cl.ly/2z0r3S2X1f3V/josh_thompson_resume_turing.pdf)
+- Link to Turing portfolio: [Josh Thompson's Turing Profile](https://www.turing.io/user/1203) (It doesn't seem published yet, but I believe that's the URL)
+- Link to Flower Exercise using this template (you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):
+- Link to Trello Board with companies that are being tracked:
+Job search action plan for M4, using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md): N/A
+
 ## Mod 2 Deliverables:
 * **Link to gist documenting mentor outreach:**
 
