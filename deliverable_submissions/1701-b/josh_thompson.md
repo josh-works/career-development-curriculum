@@ -3,7 +3,7 @@
 ## Mod 3 Deliverables:
 
 - Link to resume: [Josh Thompson's Resume](https://cl.ly/2z0r3S2X1f3V/josh_thompson_resume_turing.pdf)
-- Link to Turing portfolio: [Josh Thompson's Turing Profile](https://www.turing.io/user/1203) (It doesn't seem published yet, but I believe that's the URL)
+- Link to Turing portfolio: [Josh Thompson's Turing Profile](https://www.turing.io/alumni/josh-thompson) (It's published now)
 - [Josh Thompson's Flower Exercise Worksheet](https://gist.github.com/josh-works/2c0f569238cfee46f712972802fab36b)
 - [Trello Board with companies that are being tracked](https://trello.com/b/OUahkMZ4/job-hunt)
 - [mod 4 action plan](https://gist.github.com/josh-works/b5dcd2f04a33239a77b51708f6cd3131)
